@@ -1,0 +1,27 @@
+
+.square{
+    border: solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+#green{
+    background-color: greenyellow;
+    position:static;
+    margin-top: 20px;
+}
+#red{
+    background-color: red;
+}
+#pink{
+    background-color: pink;
+}
+#brown{
+    background-color: brown;
+}
+#blue{
+    background-color: blue;
+}
+#purple{
+    background-color: purple;
+}
